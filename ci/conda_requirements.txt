@@ -1,0 +1,11 @@
+scikit-bio
+hdf5
+h5py
+numpy
+scipy
+pandas
+pyqt
+matplotlib
+seaborn
+IPython
+notebook
