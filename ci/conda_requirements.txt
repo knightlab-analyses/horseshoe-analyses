@@ -1,3 +1,4 @@
+python=3
 scikit-bio
 hdf5
 h5py
